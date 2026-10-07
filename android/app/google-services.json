@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "468792959430",
+    "project_id": "smart-school-2be4c",
+    "storage_bucket": "smart-school-2be4c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:468792959430:android:ab69419e819cdc2d7f52c7",
+        "android_client_info": {
+          "package_name": "com.smschool.narme_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBURgrx5TAPrs_A9mCL8L-XuP2umHK_iw4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
